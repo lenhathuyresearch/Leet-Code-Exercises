@@ -1,0 +1,44 @@
+Thumbs.db
+vscode/
+.idea/
+*.swp
+*.sublime-project
+*.class
+*.jar
+*.war
+# Thư mục build của Maven/Gradle
+target/
+build/
+.gradle/
+bin/
+obj/
+*.user
+*.suo
+.vs/
+vendor/
+.env
+# Nếu không muốn upload file log
+*.log
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+# Môi trường ảo
+venv/
+.venv/
+env/
+*.gem
+.bundle/
+vendor/bundle/
+log/
+tmp/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+# Thư mục build nếu dùng CMake
+build/
